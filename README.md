@@ -134,5 +134,6 @@ As a user,
 
 I should be able to view charts visualizing event details, like the number of upcoming events per city,
 So that I can get a quick graphical overview of event distribution and plan my participation accordingly.
-
+-------------------------------------------------------------------------------------------------------
+In the Meet app, we use serverless functions to make the app run smoothly. This means we handle things like getting data, sending notifications to users, and updating content without needing a lot of complex infrastructure. Serverless functions help our app handle more users easily, especially when lots of people use it at the same time. This makes sure the app works well for everyone, no matter how busy it gets. Also, by using serverless, we keep our costs low and make things less complicated behind the scenes. This lets us spend more time making cool new features and making sure our users have a great experience. Our main aim is to make Meet a fun, easy-to-use app for finding and joining events.
 
